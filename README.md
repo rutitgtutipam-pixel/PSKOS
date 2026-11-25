@@ -1,5 +1,5 @@
 ﻿# PSKOS 1.0 (Early Access)
-**PowerShell Kernel Operating System** — a lightweight, retro-styled pseudo-text graphics (PTG) desktop environment and shell for Windows, developed by **Rutitgtutipam Software**.
+**PowerShell Kernel Operating System** — a lightweight, retro-styled Power-text graphics (PTG) desktop environment and shell for Windows, developed by **Rutitgtutipam Software**.
 
 ![Release](https://shields.io)
 ![Platform](https://shields.io)
